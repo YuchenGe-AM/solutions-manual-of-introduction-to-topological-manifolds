@@ -1,4 +1,4 @@
-# Solutions_TopologicalManifold_Lee
+# Solutions_Topological/Smooth_Manifold_Lee
 
 A solution sheet written when I'm a second year undergraduate.
 
